@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\ConsoleApp1\Compuscan\bin\Debug\Compuscan.exe.config
+C:\Users\User\source\repos\ConsoleApp1\Compuscan\bin\Debug\Compuscan.exe
+C:\Users\User\source\repos\ConsoleApp1\Compuscan\bin\Debug\Compuscan.pdb
+C:\Users\User\source\repos\ConsoleApp1\Compuscan\obj\Debug\Compuscan.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ConsoleApp1\Compuscan\obj\Debug\Compuscan.Form1.resources
+C:\Users\User\source\repos\ConsoleApp1\Compuscan\obj\Debug\Compuscan.Properties.Resources.resources
+C:\Users\User\source\repos\ConsoleApp1\Compuscan\obj\Debug\Compuscan.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ConsoleApp1\Compuscan\obj\Debug\Compuscan.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp1\Compuscan\obj\Debug\Compuscan.exe
+C:\Users\User\source\repos\ConsoleApp1\Compuscan\obj\Debug\Compuscan.pdb

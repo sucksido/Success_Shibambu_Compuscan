@@ -1,0 +1,1 @@
+System.Windows.Forms.ListBox, Items.Count: 20, Items[0]: -1664
